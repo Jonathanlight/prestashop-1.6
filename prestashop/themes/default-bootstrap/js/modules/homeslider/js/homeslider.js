@@ -35,13 +35,14 @@ $(document).ready(function(){
 	if (typeof(homeslider_width) == 'undefined')
 		homeslider_width = 779;
 
+    $('#homepage-slider').addClass('col-xs-12');
 
 	$('.homeslider-description').click(function () {
 		window.location.href = $(this).prev('a').prop('href');
 	});
 
 	if ($('#htmlcontent_top').length > 0)
-		$('#homepage-slider').addClass('col-xs-8');
+		$('#homepage-slider').addClass('col-xs-12');
 	else
 		$('#homepage-slider').addClass('col-xs-12');
 
