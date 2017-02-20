@@ -2,607 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74fe9290-aaed-45fe-aa6f-d337527dfcba" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/cache/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/00/47/37/00473727ff10c8f7c44b4ea75f111c87f8f3f65c.file.menu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/00/a1/f6/00a1f62041ab0be17d79cdb3a56ae0698280f12b.file.list_action_edit.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/01/11/43/01114370afc2f8a8d4bbf6b2d7cdeb2292fb068d.file.product_rule_group.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/01/3f/5e/013f5ec029bb4886f144597b308245f38dfdbc1e.file.configuration_bar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/01/47/11/014711f6456dda6b30706020a05795818c50c1ce.file._discount_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/02/8a/dd/028addd619863c39eba4e08fea017bca3950903e.file.infos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/02/b2/05/02b2052c15a1f648caaed4402b3aad4416bc314c.file.textarea_lang.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/04/92/8f/04928fc3ab0e3814c83f417f74bfdc9277b00495.file._customized_data.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/05/4d/72/054d72b7475d2fb8cb75b32906fa94bd8c05b2a2.file.order-opc-new-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/05/86/17/058617b29baa620fa4f7e7af84a71d222e055184.file.required_fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/05/e9/ae/05e9ae16e6e07b22b1a47db99e320b5ed5513f0b.file.error.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/06/ad/12/06ad1229ce65ce79637a634dda301d20e70c16b4.file.importtheme_view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/06/e9/6a/06e96a65a7669121d35ce2f0a474c5a612441777.file.guest-tracking.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/07/18/bf/0718bf71225b3d75a0cc3d904e2bd792cae36f11.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/08/08/66/08086641cb4717025429517a95237ca2b1ebca61.file.blockcustomerprivacy.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/08/68/44/086844d6b2464a8586e3e2f61753c4f2552f5725.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/09/f5/2c/09f52c307e6050d1a5749a563370a93577d457c6.file.product_rule_itemlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0a/2b/00/0a2b009cf42399d2cbc7626866c3fd484f8a497b.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0b/03/b5/0b03b5dc31f33ac43d246d2011824ae17119976b.file.product_rule.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0b/d5/31/0bd531f2ea21aca73e1ddb98589becc84b500c21.file.productcomments_top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0d/82/8d/0d828dfe14dc01487e9614d28d7e12952073286a.file.category.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0d/e2/8d/0de28dbc9a32d467cc37207c22c9336950ed5f5b.file.required_fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0e/2c/2e/0e2c2e96e2d3dde1551728ad569f1672b5306e9c.file.list_action_delete.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0f/2a/35/0f2a356abe8fe4330dfbccb10fd7ca75c0a1005b.file.email.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/0f/34/93/0f3493a6ff5c8c619304dc272e46f9fbce89ef7e.file.tree_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/11/80/f3/1180f3d92806a0c18a7581ea89714e58e0d7293a.file.tab.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/12/42/74/12427486e348a4d22ff60f0be9a73cd7d106ae37.file._documents.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/13/9e/0c/139e0cb62a178741910f20be384bbadbe2c09007.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/14/11/37/141137c1e7616b4bd39adcb761eb0c8e681bf290.file._print_pdf_icon.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/15/06/06/15060645f362e06f65bcea5a105af95f686c57a2.file.ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/17/1d/11/171d114ab212153a57fdb648010bb0df21a5a0fb.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/18/c0/30/18c0304744d2a67c5a77ab62a12c262b48df5061.file.order-steps.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/19/17/ee/1917ee5a8f69a960ab262bd9b92d0c8e2d55eece.file.message.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/19/99/ac/1999ac2131cd536d57790c46d0c3989d8254a7d7.file.quickview.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/1c/88/e1/1c88e1b61a74d9bf25cfb1d6383b7331b2584817.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/1c/9c/0f/1c9c0fa9ae430ff4f3e317de96c4e325a6d654db.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/1d/1f/27/1d1f27ca0249f049a9aed28c7fb91ac38e8e89a0.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/1d/df/42/1ddf4282977bfd3ff6cd375abe045f9f8b2dfda6.file.tab_modules_list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/1e/36/92/1e369224639ce5a5c624d733baf96693652eae40.file.tree_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/1f/8d/5f/1f8d5f7ac9e34d6a53cd14843e8b1c8e81b9eb4e.file.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/20/59/b3/2059b3f5a080cc215258dc71d25d3accfcbbc02e.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/20/e1/de/20e1dedd407069e497d297fb5e7f1748ceca1d7f.file.modal_translation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/21/09/f3/2109f305b5ee923915297082276ea4af13e73c37.file.login_addons.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/21/2d/75/212d756f67adc4bf092af33bebefd9a50bb3a9b0.file.managewishlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/21/35/02/213502a6a1978c9097d9cbf243fb2b4c672df487.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/21/6f/5e/216f5ec810974c58ab6ca0ff74abf551ca846b14.file.blockbanner.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/21/84/59/2184591ebf0483b43b86f02c042756f750554a1b.file.kpi.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/22/fa/31/22fa31cf7f131531b5ec140f3050d47f63e82351.file.virtual_product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/23/3d/08/233d08be67d7f333ff516c11c1c02f817650a285.file.attachments.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/23/48/c6/2348c60643141134aecb7edf77374185049e0dc8.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/24/98/82/249882a89e2bc336c78f9c51d22e8ac3a1e490fd.file.list_action_view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/24/c6/22/24c622c5c1ac442b575c025e8c506cd83c57b4d1.file.layout-export.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/25/e0/b9/25e0b971c8f866a90548cb6ec7fd339b0ca7eb31.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/26/62/da/2662dadc3a091df84a17a802420620e9cfbab9cb.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/27/95/d8/2795d8c4c4e02d5128494da41925ca2e2fff4b64.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/27/bb/c8/27bbc8d4ed39fa0cbd9dc0f30e6c6722f27db446.file.checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/27/fe/5b/27fe5b2181ac37b355fdf0917d624ee98f12d141.file.input_text_lang.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/28/fa/ab/28faabab5662bea9fbefc85e9306dc7650ebf656.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/29/bc/40/29bc40d230dbef343827e742f78d436e4542e052.file.tree_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2a/8d/4e/2a8d4ed87f2c82cf99574f81c6e6763cea7603cd.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2b/09/df/2b09df4fd87bf8afa226c6000b94d96892362b9c.file.blockstore.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2b/6b/8a/2b6b8a9d0108903c9e0af1f19cce166c3d4ba391.file.list_action_supplier_order_receipt.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2c/00/3a/2c003a998950576533f3cc6c5b53c4a286e69a0b.file.nav.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2c/d1/06/2cd10612a3ff9d509b76c970825e3dac020566a4.file.modal_not_trusted.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2d/c4/40/2dc4401434ec9c6298fcf111c95b7b332abfed1b.file.blocklayered-no-products.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2d/de/88/2dde880762463bd11d6fc7fe58a6525d0e3cad1c.file._select_payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2f/b1/fc/2fb1fcddad71d340feb17a371aedd5a4310c438d.file.homefeatured.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2f/b1/fc/2fb1fcddad71d340feb17a371aedd5a4310c438d.file.homefeatured.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/30/07/82/3007828344408ef4e9413ee92610624edef835b8.file.form_category.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/30/7f/da/307fda8ba31a91b6d6515e623df9099b8f0efbd4.file.order-payment-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/30/98/47/309847577cba48a8cb64dd7c4b0cb1833a67ae38.file.blockviewed.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/30/a3/ae/30a3ae3668dc6a785e3e8c095549f1a1d0482330.file.order-address-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/30/b8/f3/30b8f3f7db90224600731860d8f79d0befb366b6.file.graph.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/31/67/9f/31679fb5b1a2449ad81896c5a325825d75f93df0.file.employee_field.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/31/89/6c/31896c99ee57c5c3fd3e131648e76154118f045e.file.seo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/32/25/47/322547bbd37cc19af75d217a9a8970e66324cbaa.file.list_modules.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/33/56/56/3356560bf91174e5693d2ae595fe19bc966a1b5d.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/33/76/3e/33763e61bd18216f1a6b0937be0619da11a218b1.file.blockcontactinfos.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/33/76/3e/33763e61bd18216f1a6b0937be0619da11a218b1.file.blockcontactinfos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/34/0c/04/340c0406994f9286b82372dfda82a2cabc111488.file.authentication.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/35/1f/7c/351f7c4e0394789f9570594fb639f780eeab6918.file.product-list.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/35/1f/7c/351f7c4e0394789f9570594fb639f780eeab6918.file.product-list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/35/7c/cf/357ccfafa6a6afdfcd73649c52bc2f3df3214f84.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/35/e4/ed/35e4ed739d0f0f6a03821118a2b4d0ba6ab2c2fa.file.tab.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/36/75/e4/3675e4d6d700b4d54b4ea8e943c95618498c0566.file.product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/36/c3/c8/36c3c887acb59743c374379bd5c7c7e144dada00.file.restricted-country.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/36/fa/26/36fa26a4c3deb726611f8ba02b05b0e9c57b248f.file.js.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/36/fc/c1/36fcc119d6531d576641d08a2720c091b8d7e605.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/37/4a/24/374a240e8f52a5c149514820ace041a32d4624b7.file.images.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/37/67/9c/37679c5c11445522459b696d2179a476e4733354.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/37/e7/3a/37e73ae384f85a624f201d287869469a98af6aee.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/39/7c/19/397c19ef1d0e4320399fe5955df53aca9e283e52.file.crossselling.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/39/dc/eb/39dceb757d8f45b8d50a3a8efe78ae0f0db1b6c9.file.tree_toolbar_search.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/3a/72/23/3a7223680ade96970b305195be7ecb7b8f037e0f.file.order-carrier-opc-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/3b/16/8b/3b168b306a11f599536dd70a1c7263cc2d6efc12.file.list_action_view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/3b/88/2a/3b882a94fc7acba42ff981637c9acff65f72e2c4.file.products-comparison.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/3f/65/a9/3f65a958231176e76f705faa4e2d2bf2d892e4e9.file.features.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/3f/a7/c6/3fa7c6a657ee59d05669d931420af3e5c1c51f3c.file.mywishlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/3f/b1/88/3fb1880efd1ac4a371409f754bd0b20207a93ca8.file.message.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/40/96/a4/4096a41c2bf22aa0b98e9a52c0dd1b8922f1a4c3.file.blocklanguages.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/41/88/fd/4188fde1d53c0e08ec1b767bab7f036fd0a30b95.file.list_action_supply_order_create_from_template.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/41/e5/4a/41e54a609de459fd01ade2abc0cdcf8c3636cf32.file.products-comparison.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/42/07/9f/42079ffdbe24585f0174f5b314b642d2b389bece.file.blocknewproducts.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/42/6d/24/426d243a257c7e77f4b3cf0917edcf3ebb00f7cb.file.blockmyaccountfooter.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/42/6d/24/426d243a257c7e77f4b3cf0917edcf3ebb00f7cb.file.blockmyaccountfooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/43/31/e2/4331e214cbfe7440b0201b2defc345c37ad35177.file.tree_node_folder_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/43/bd/17/43bd17821f4d529271b7c132e6889564c374c005.file.address.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/44/51/45/44514599fb222a2575e863ff50bf0a32525f4cd9.file.prices.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/44/94/bc/4494bc5b0f6b92248e08bcb20189718fc628b439.file.homeslider.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/44/94/bc/4494bc5b0f6b92248e08bcb20189718fc628b439.file.homeslider.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/44/e0/aa/44e0aa6253e8b05ef60225aa5f78bcb9c735ab0f.file.blockbestsellers-home.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/45/7e/1c/457e1ca030b5ebfbda570cd1cbfe46eb5ad42925.file.modal_not_trusted_blocked.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/45/a6/de/45a6de65338d60575442fcd5d9eb6e25a72b0c48.file.shop_tree_node_folder.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/47/d0/fc/47d0fc9fa8569cba6b125da0f55801fb6510289e.file.blockwishlist-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/48/cc/aa/48ccaa7d131474261c9334b21c7d7203663b72ba.file.blockwishlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/49/6e/cc/496ecc12ed7698c175fb68de02b00916be68e494.file.filters.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/49/ab/5a/49ab5a05047ec969b70322efd6a4176da8dcf574.file.category-tree-branch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4a/01/af/4a01afc5ab5d6c1d0a12593c18b2c901378df607.file.assoshop.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4a/47/24/4a4724782a2d095be69d32f74d25227a4c1341b1.file.product-compare.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4b/2d/91/4b2d91550cc6196450866a3ebb393878c24e79b9.file.list_action_default.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4b/cf/00/4bcf005bd70ff828593c8fd2bf978873cca44ce8.file.productscategory.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4d/45/63/4d456326d64e6057d8debce2b0622ed6d38a55b0.file.order-payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4d/b3/a8/4db3a8d326cae24667e52254be8d9eb24fb675c6.file.authentication.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4d/e1/17/4de117a470451d441a8a5b2e52f926f5843a8d94.file.associations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4e/28/a2/4e28a275d00d1507163f6cb955f2e43e9ea3ad92.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4e/53/36/4e53365344e3db047be599c5f827060bee5f27dd.file.tree.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4e/67/5a/4e675a6a487996d5a368e64e48250443f64fea03.file.tab.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4e/8a/46/4e8a46314a6bea170974df2ca0d447fe74407103.file._product_line.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4f/0d/de/4f0dde0cffc8996d12939357f6f81e39f89b618c.file.identity.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/4f/8c/de/4f8cdef42692ff22aef1cfce440ab141f6b26c7b.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/52/b9/44/52b94480ac9d840fcee32689bdece272b5f667f0.file.order-opc-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/53/15/54/531554c96781c4e4662be59b7d5ed8013e98072a.file.suppliers.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/53/2c/48/532c486cc566e0e238eff4e8b29b958017d3be53.file.search.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/54/08/60/540860a6442db9ef03daf8f43a6cba84f74fd86f.file.ad_bar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/55/4d/83/554d83fec7ababf7bff43aabdadbcba53a47b3dd.file.payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/55/bd/01/55bd01c5c627894d182a8338047f847f33be721a.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/56/30/94/563094d8b074c273a911092a4ece59b162582be8.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/56/c2/88/56c288ad8a31037728ea72eeb38f63cb120d54f5.file.tree_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/56/fd/b9/56fdb9eb2ad87d1850fe821c0dba4693b3608c18.file.modal.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/57/4e/39/574e3979061f17655866b43d1028aa27f99688d5.file.payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/57/cb/5d/57cb5dc61aff19d022432c3df0412ded66bd753b.file.shipping.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/59/8f/dd/598fdde52c449dc32ea4b6dc001bd696092c00f6.file.warehouses.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/5b/20/72/5b207263a23bd7bd72dcbb34a33750f97cb62c27.file.blocktags.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/5d/2f/f5/5d2ff5ac50134e21618e3b08daa04741ba1a3d49.file.blockwishlist_button.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/5d/97/14/5d97141d5b37b2d6a609cd6bab74f36ccf26c661.file.best-sales.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/5e/42/ba/5e42ba547de16bd64dcfa2184caabc78dbe497ad.file.addresses.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/5e/ea/5b/5eea5b3e828dd9b62e6cc1ea8066bd6ebbb41596.file.informations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/60/b7/1e/60b71ef764946f77407bd85b549e68024b7cb17c.file.list_action_preview.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/63/48/8b/63488bc0c4360d7c63488661f14e57b17b9f5671.file.discount.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/64/c9/63/64c9633f4654474b827f0dbddb16187e4f1bed36.file.list_action_delete.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/65/74/fe/6574fe1704222ae372ba0aa003c7611068d7789c.file.tab.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/66/01/59/6601597fdf4d7c26593cc0f58212f68a423f91c8.file.kpi.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/66/33/cd/6633cd0c8e5168da2ae987b26c582eeb4f3af296.file.pack.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/67/45/07/67450734b9013a15f5511562eebab5b1e858fb98.file.summary.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/67/68/31/676831890fdcd52c64aeed3e93506f1628dcdc34.file.form_group.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/68/31/38/683138a5ba673da4bb57aeebb80974499cc2d13f.file.blocklayered.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/68/a2/66/68a266e597b078d9000c8cc0bd11d45cdfec14fe.file.stats.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/69/53/6a/69536a85516bfface4d6adb33e050e9c6015b681.file._print_pdf_icon.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6a/4c/54/6a4c5496d01dc5f4225ade702b6955713648eda0.file.tree_shops.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6a/c7/b9/6ac7b9645d8843d889300b833fcee29957bcd1d0.file.order-address-multishipping-products.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6a/e8/c9/6ae8c9a5cc9f7b89d7c6b3d40a72731533088b20.file.blockmyaccount.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6b/7b/ca/6b7bcab4697b9c929d5b8edecd36c04d175644c8.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6b/d2/65/6bd265cd64616227c66116c94322e6e36e7477c4.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6c/01/4c/6c014cdfaccb7faa86aaf47bc1020a67e82608a1.file.global.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6c/41/56/6c415696122b2d13058d82cd2d4021758365cc5b.file.crossselling.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6c/84/67/6c8467617a20059119ec1580bdb8d733adf512bf.file.blockwishlist_top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6e/3b/17/6e3b17d240e78d80b04817efeed9165e5cac7cc7.file.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6e/65/e9/6e65e9047a82bd5bb56f27915c2cb97cb20d5ee9.file.productcomments_reviews.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6e/94/49/6e944938bb8e579cc54e425ea9311f0016ec6dc5.file.favoriteproducts-header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6e/e0/42/6ee042e72dc23b11af98713994d80f8a5a29477d.file.blockcategories_footer.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6e/e0/42/6ee042e72dc23b11af98713994d80f8a5a29477d.file.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6f/87/8c/6f878c52c771fbe0740de2b2666e4b98ee8815a7.file.page.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6f/91/d1/6f91d16330f5b0e0c4205c2b8f59b930584b5e98.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6f/97/b9/6f97b9f40151af96a4a3b72b5e08c7fb19f3dd27.file.blockcmsinfo.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6f/ad/0a/6fad0aa2890e34281737ef30c4b29353129dfc00.file.order-payment-classic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6f/bd/97/6fbd97d9cd361e023af1e086f67f8eb4ed194d33.file.simple.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/70/61/9d/70619d02b749852be970bcb8d0e64d2b7deaff4a.file.blocksupplier.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/71/55/27/715527797ca04281803702e8adc974581c2a7f29.file.tree_node_item_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/71/ff/ee/71ffee5fddbaaeb5396dda7bac5714feec8e85ea.file.modal.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/72/80/30/72803002b7c050612061338d8f84739e1f6a2bbb.file.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/73/03/5c/73035c3978384e7f2350505fe8a2feb287ebedd7.file.cms.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/73/94/83/739483987be5a7af0019cbc8185e1364d0b33da6.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/73/a0/fe/73a0fe25aa115260b6d247b551fe7a4d7a063806.file.blockfacebook.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/74/72/7e/74727e0426bdad41c6937479f462a2044c007c95.file.favorites.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/74/d1/a4/74d1a4ab02fab8d567372c9fe83a73472421775a.file.tree_node_folder_checkbox_shops.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/75/a0/12/75a0120fc1e67093083a190dc3b6c801d95f7575.file.tree_node_folder_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/76/87/83/7687838a2a5656e81145ce0960106be30b39f342.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/77/71/8b/77718b69fff91d2d03b3bddfcd5698fec83aa4df.file.nav.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/77/71/8b/77718b69fff91d2d03b3bddfcd5698fec83aa4df.file.nav.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/78/3d/61/783d61a3664e0949c6844297e871e72a0f278548.file.layout-ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/79/55/90/7955902c8b66919f3acf575dd0fb2cb9f7b07478.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/79/9b/67/799b677ce4f36e0af5e1d023f801eb7f5e0f51a5.file.list_action_enable.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7a/1b/07/7a1b0705f0a08ae9d315306471fa3370af0dd673.file.order-address.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7a/8d/3a/7a8d3a4ffed2ad7459deba39d07a85d3810cc6ad.file.category-count.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7a/e1/99/7ae199ed46ca6608737b9e96ad4695366dd3d092.file.blocknewsletter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7d/ae/fa/7daefaab84d62afea23deb2448c04217c45bf92c.file.toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7d/b2/c9/7db2c9f4815b08e8c397cbd730b28d17ec726cab.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7d/bf/11/7dbf1106c5173809ea31bbb2899b3d2a26824376.file.footer_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7d/fa/24/7dfa2481b719767286a8b3b3be8ef36ea7cd444e.file.tree_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7f/71/dc/7f71dc4c059820d1ea667418ebd8ca15d5087b4e.file.order-carrier.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/81/5b/80/815b80fb8129b177fbf361c6008b7a23c50bfc88.file.blocksocial.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/81/5b/80/815b80fb8129b177fbf361c6008b7a23c50bfc88.file.blocksocial.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/81/5e/62/815e62c152b6818a5539a1e8122e644d350d510b.file.tree_node_item_checkbox_shops.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/82/ac/50/82ac508bcce8feb7136151d1724ec7dc41a0543a.file.shopping-cart.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/82/cd/ac/82cdac8523ca5c93f2c9834ebe7959896ba219bb.file._print_pdf_icon.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/82/d5/70/82d570fc2ddbf33fe896213aebeb3169e51a4001.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/83/43/19/834319f09db3945dd31e39b1540f488f91cd475f.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/83/c6/00/83c60022e856d556e3e7a6cac436298ddadd5274.file.logo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/85/74/b9/8574b9f1029266327a3b2401bc1bc426af62bc0a.file.form_settings.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/85/97/86/8597865a4cab5b05231fb89699e5d7e10152bf27.file._new_product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/85/ab/3a/85ab3a2c6e3dcb5c473cc8b4013d1cfc432c85dc.file.product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/85/d1/7f/85d17fbf49e685244cb72b4e8c66f739ff664060.file.blockuserinfo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/86/79/27/86792706cfb8b2832d0c5a4a3bffe678ab97e78a.file.supplier-list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/86/8f/22/868f224b7a19ff5f954c16f8742a41c1680fc3ab.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/86/dd/41/86dd41ba1ebe70db4dbfce6413f86f09765d9d82.file.row.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/87/e6/a8/87e6a82eb5c830b77f8cce80fe9af0fd5799ed87.file.errors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/89/92/e2/8992e2c98f087b637a734ce7a99aae7bda45f403.file.invalid_token.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/89/f8/8c/89f88c34742ef531625e013e5d704e9727948eb2.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/89/f9/15/89f9155e9a2ad5e43b0da3fbc47c2e3f8e2979a4.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/8a/91/68/8a9168c774032f902933b86184691967b2c828d3.file.informations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/8a/96/12/8a96122fc61cb99d19e00dadc43df4ef40d2cbfb.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/8b/42/e0/8b42e00def233a30a879e32df460bf80fa05a8ac.file.order-confirmation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/8c/4f/c5/8c4fc533ff8cb490983612aeca638a613a7a2cbc.file.favoriteproducts-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/8c/b8/1b/8cb81b272620c735e7cb6f61bafaaaa724e14f76.file.tree_node_item.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/8f/c5/38/8fc5381b4b1ce1ad2fbc0bfc8dc35d8ebbdf1b72.file.blocksearch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/91/46/81/914681e90c785e605e46f4a6e54965f5fcbb1fc3.file.prices-drop.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/91/4d/66/914d66073012ba835a12fd62e97caaf06d508d54.file.payment_execution.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/91/cb/72/91cb72af25a47c370d2f6cbee3d63f556fc00d07.file.modal.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/92/1c/d6/921cd69966cfcfa8d19b94c0f65b975f6a16c606.file.mailalerts-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/93/22/24/932224ddd2796252d12d338acfe3fc596f5e0224.file.favoriteproducts-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/93/4b/ef/934bef2fcd35c326804c8c7ad8524624fdc30fa2.file.list_action_enable.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/93/af/2e/93af2e537c7c1bc85e36256cae04d08ae4f965f4.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/94/cc/65/94cc65370ddbab04e82a2e9da3dedf8b5669dea1.file.search_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/95/65/a3/9565a358c39f123dfa185a6a0dff1a65452a851d.file.row.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/96/10/10/961010240525eee4b99e09a1acc4a7ec23773d91.file.list_action_duplicate.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9b/49/76/9b4976e7845be2d4e416705cdcb217903bfae42e.file.tree_node_item_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9c/7a/6d/9c7a6da9e9e67ee5717134921c1e33231c3dcf98.file.virtualproduct.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9c/d0/5f/9cd05f3f8a239ec5b9610fc8c631e4ab3aa9fee8.file.confirmation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9d/8f/a7/9d8fa7e95f6ff0c5cb897f89e6b5f0a650882668.file.order-address-product-line.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9d/be/e3/9dbee317c7d37ff78c9391b94773fdeb4be7fe82.file.configuration.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9e/6a/1b/9e6a1be8efee277d8d48658822ec743076960f10.file.stores.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9e/76/ba/9e76bad42802593688200d236b964e149e20877e.file.quantities.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9e/79/04/9e79041da373c5e4b16502747e2f130eec88ac8d.file.tab_module_line.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/9f/c4/1c/9fc41cd4f4a1373d5029ffd8b9b589d06434f80c.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a1/49/32/a149323d77fa331ec863b11883fe6d7726e87c27.file.order-address-multishipping.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a2/98/86/a298864487e6ce5cca312048f9ae0e6ec64352ab.file.blocktopmenu.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a2/98/86/a298864487e6ce5cca312048f9ae0e6ec64352ab.file.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a5/19/9b/a5199b2250497babf6403e908cba2224a642d175.file.order-slip.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a5/31/88/a531886b78007712e5dc40567718d2f0eb9c30db.file.pagination.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a5/7d/e4/a57de411834445880274d8fe749f87bcd86fb6f8.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a7/b4/d9/a7b4d98c6a48bfa32e883cfe714071a536877dca.file.specific_prices_shop_update.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a8/0e/c9/a80ec90b47cb9c18ddd355b45a8e0b88888d0fe0.file.list_action_transferstock.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/aa/bc/4a/aabc4a2e4e6fbeb24b0d66d6f872d78f1e1b72da.file.sendtoafriend-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ab/69/31/ab693152e8e6839128753a0cb1332a11df964be1.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ab/92/c3/ab92c340cbbd0c047a0d9582e5515edc86b1fceb.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ab/de/02/abde02ae30a94b28c20c4f58bf9e3356afa555ad.file.list_action_supply_order_change_state.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ac/c1/79/acc179897664d1004327422a6530847402b41fa6.file.password.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ad/4d/f5/ad4df5bafd0a5385f86a130814da60eda947bb38.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ad/b4/7a/adb47ab1ab109283b5207eb2b96549c1b4bbb27a.file.nav.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ae/22/eb/ae22ebe45f226fc1b93cd480afb5dc197cfe0b0c.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ae/3d/c1/ae3dc1c9b6c4a6cecd02d5b5fb26ef86d868e7e4.file.list_action_delete.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ae/b6/b1/aeb6b10ad24b4ef8450bcab558179e72f5a57c0c.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ae/d3/17/aed31723789de1f2683d3fdc706cc022277dae4d.file.list_action_details.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ae/e6/3b/aee63bc5de61e7dae13c31c077cc8f2eb3aaf326.file.productcomments-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ae/ea/58/aeea58e265022a032cca34a023f75f6fa0cdbe3f.file.restrictions.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/af/b4/15/afb41516c8f0f514930bcd6dcab770364a05ea2c.file.blockmanufacturer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/af/ce/d2/afced254815341502308e828893ea71dca889ed4.file.timeline_item.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/af/d3/b9/afd3b912b0a81ed5dfab28703a625f0e5956d7e0.file.list_content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b0/52/d7/b052d7cae474842a8a983e56bd204011a6719b35.file.list_action_addstock.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b0/b4/c9/b0b4c92dc1aa2ccc08a44516c9843b0e991f151b.file.actions.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b2/73/e3/b273e393d5b9b05eec1dfce1dc39c5fbe4eb6f61.file.list_content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b2/da/db/b2dadb7e793321f072a3fda316c180ab0a8c4418.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b3/8b/37/b38b372b41c560018b3a213d366715f17d208775.file.payment_return.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b3/9e/58/b39e58031ccc4c3b3078e843ab439848ef382fa8.file.ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b4/c3/9b/b4c39bd2460421438ea0db4b4e160e72eabf9052.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b4/e8/c4/b4e8c4adc686745564e7730f557d041e904449c7.file.404.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b5/dc/1e/b5dc1e0884fb7f1fd5afdf31b094c30c20733c7d.file.blockcurrencies.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b6/0c/bf/b60cbf84f922b9fd16ae16a8b29c218b249883b7.file.importtheme_view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b7/07/ea/b707ea175c1477908734aaccba05485b73ce04f3.file.blockspecials-home.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b7/a2/49/b7a249e691e2badadad55a1691fb8e731b0bcc2c.file.attachment_ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b8/9e/be/b89ebe38dcf137868a76311903294514b69d5245.file.form_date_range_picker.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b8/ac/87/b8ac87e5c22ff6f2046154673c21a58801d16842.file.supplier.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/bb/16/d3/bb16d335446d7028ea235ada2d008527ed6e7cb7.file.dashboard_zone_two.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/bb/54/29/bb5429c93c6e4d94d0069ee990e08639b05955c3.file.rules.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/bb/ec/c1/bbecc1ca8281da7dd144ab912836c730f7a78ac0.file.tree_node_item_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/bd/52/0a/bd520a539e00656e9b59eb344ac0ff9293dd117f.file.dashboard_zone_one.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/be/1f/73/be1f73b73d2b79be0b4e2c7d83791f2fca609bdc.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/be/2b/11/be2b11b14c89cf0e5987156e9feb88950304a6dd.file.blockwishlist-ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/be/b7/fd/beb7fd67f2430cc4d297d6a5be0ea81775645d78.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/bf/05/70/bf05709ac4a01569aa7d8c1e8c449235d17a9f02.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c0/9a/30/c09a30915188ea4cf503fedf4b176e8d52656e39.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c1/02/4f/c1024f8cd1d670b743a1559b181535c7360f5f60.file.customization.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c1/57/f8/c157f884c9fd5f45a2b39ca7855415ae995a2e39.file.manufacturer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c1/78/9b/c1789bf440ca6ded3e97c533000bcb8e1620c35f.file.index.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c1/8e/44/c18e44f54e620c586d62f2a139e97c1d483bab2f.file.order-carrier-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c1/b9/2a/c1b92ab741ea34450d512f44ea3f3894a9e5898b.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c1/d7/10/c1d7101b4ef78aa7803e571f6ddd77cb63fdae60.file.tree_associated_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c2/8e/47/c28e47648946b33f9e4b977959ec0127de1067a8.file.category-cms-tree-branch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c2/9f/13/c29f133a11606af7c83d39b8859ddceff2f13ee8.file.order-follow.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c3/e1/7a/c3e17ae536cdcae8a71b69ed6d31f1e8861d6033.file.shopping-cart.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c5/59/ee/c559ee0141d22caa845b3fe5b96c523d66cc297c.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c5/b0/f1/c5b0f1bd3290148db89e5e6a2ec912fea658b974.file.footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c6/25/ab/c625ab199e2a9b1d0996fa1e418ca91e0142a2c5.file.shopping-cart-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c6/b8/13/c6b8133c1b9e43e915521eba093d231da3f47a9d.file.tree_associated_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c6/c0/0a/c6c00ad530dddd2e3b088a2b3325d39a85911541.file.order-return.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c8/af/48/c8af48db59541e66d91b695f1a4f1f28ac37a033.file.manufacturer-list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/cb/48/16/cb4816ef11a4ba7273c15a76fd7c1656ebc98828.file.blocknewproducts_home.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/cd/1a/2b/cd1a2bd1ecec33360491ede8dcd127b0285f8c36.file.blockcart.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ce/16/87/ce16878620d32175ff192609abfc3c50ffa0d81b.file.combinations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ce/87/ec/ce87ecdff790f5690a9b3465c8e86529311b71c7.file._shipping.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ce/b1/0f/ceb10fe22a6d2690d5da46c78360336614764e39.file.product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/cf/0d/16/cf0d1604d0162dd5193522cc5cb1b18fd1140b68.file.blocklink.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/cf/8a/c1/cf8ac1bb59cc627436d6ae158251fbe9b0683143.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/cf/bc/54/cfbc549891287a98b35cef9145cd6574b7eea90f.file.subtree_associated_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d0/19/42/d019427f932dfda85f32767c5bf9fe41f4d42ba8.file.page_header_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d0/2e/20/d02e20bfa4b1693a9e2892aa008e811e95cd2eb0.file.form_submit_ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d1/c7/41/d1c7417de9ffaefdf48151d5c9f4d2b906b9cb70.file.category-tree-branch.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d1/c7/41/d1c7417de9ffaefdf48151d5c9f4d2b906b9cb70.file.category-tree-branch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d3/de/b3/d3deb3dab5b550f333f7d2765adfae265ba7ce93.file.tree_node_folder.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d3/f7/0c/d3f70c08ee16753485068274ebd419316fdf3dee.file.backoffice_top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d5/be/bb/d5bebbe266df64c12273916e83c2d9a9883b160c.file.order-opc.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d6/00/6b/d6006ba6b06e9975126dc73b2f13931b73fe0dc4.file.list_action_export.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d6/23/45/d623459f802614d3340c23e0e7e14c97c6403576.file.check_fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d6/41/20/d64120d99864bd0bca0d8af0d81676f4e9cb956a.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d6/b4/23/d6b4230994064a555c2d45363eb4b7cd998ccccb.file.shop_tree_node_item.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/da/fb/16/dafb16d8efb2f7f83e76e37d80c243ef5add924b.file.history.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/db/65/f5/db65f531e6c51333c910d54026272bf486c19efe.file.blockrss.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/db/ec/29/dbec29c2d6cdd25344a2199c763a31a2e35d9add.file.product-sort.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/dc/9b/80/dc9b80cc4a7fd75e835900c3220d3f163a0260ab.file.tree_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/dc/c7/50/dcc75053b2bbcccdc50b9532c2c89ebf13e331a9.file.modal_not_trusted_country.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/dd/81/c7/dd81c75b84194a9f50cf6ba4bbe99db30ee4004a.file.carriercompare.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/dd/f8/61/ddf8610ec54dc24adba6bc42159dc547b6143548.file.blocksearch-top.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/dd/f8/61/ddf8610ec54dc24adba6bc42159dc547b6143548.file.blocksearch-top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/de/36/92/de3692500b8fd603a62be945354a9ed4a2bf8f72.file.form_ranges.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/de/40/c7/de40c7b64a68fe3f62a96586cb2458f426aa571f.file.order-detail.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e0/0a/a7/e00aa75d3956f1e13ce61cb716f44deb8930f3af.file.tree_node_folder_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e1/b3/73/e1b37387919636422ebaf5f035c4bd7f931df72c.file.blockcontact.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e2/80/4a/e2804abd89cbc2f0ddf08363b7f44871280d68fe.file.blockcart-json.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e3/3c/32/e33c32ff95459294d0174c9b50801e4a3ec96f08.file.productcomments.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e3/79/a5/e379a545b40ba63f8993e1f3444101f5eea53c8d.file.store_infos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e3/f7/d0/e3f7d0fdd30437f99760d98c828981471733c09e.file.new-products.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e4/13/bd/e413bd782efa125b9ec361b83859c1e09a199fa1.file.maintenance.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e4/2f/8a/e42f8a29d8a201445fbd6421b18a3736951022b4.file.blockcms.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e4/2f/8a/e42f8a29d8a201445fbd6421b18a3736951022b4.file.blockcms.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e4/38/df/e438df5d94eeb8184dd415091d3cf6e03463fac5.file.config.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e5/1c/a7/e51ca709e1b46af4691ae4689ce4104f6bef24d6.file.contact-form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e5/96/f9/e596f9824b71341c34327591e1b6091d7b573ce7.file.shopping-cart-product-line.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e5/bf/19/e5bf19213cb24be15e27a2bed9bbb1b2524f1d4b.file.breadcrumb.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e5/ca/cb/e5cacb6a9d4d94dbc0d4e9d60b67e13af12b4452.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e6/03/7e/e6037eaa4d5b06dfc815aa68e9e7f75c03ae9f4b.file.list_action_supply_order_receipt.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e6/4a/05/e64a055d5d15049f6ee228421ee11fc852c22c3a.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e6/53/eb/e653eb930bae2d9bc74f0e9711dca03c541da8c0.file.form_customization_feedback.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e7/66/14/e766142610995ccc826b911dae97d13a973a95df.file.nbr-product-page.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e7/c1/bc/e7c1bcaabac1783736a084a09e7cb5db32fba575.file.conditions.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e8/2f/5b/e82f5b03564805d0f637259daea909797185514f.file.order-opc-new-account-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e8/43/dc/e843dc6f4a38888f8db04f2a0c5206d113088e01.file.payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e9/06/65/e90665c8072c69d587b3058dd4cb9dc82256812a.file.payment_execution.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e9/b7/2b/e9b72bce08903e2fb843b38a953dd2acc6ea865f.file.list_action_edit.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ec/31/33/ec3133f75afd602dfce9031f387e72126030e29b.file.program.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ec/42/9e/ec429e28f98c0265f8a1e946f68448a357bcf42b.file.dashboard_zone_two.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ec/ec/23/ecec237fe2a1e92414c3113fc9bda6a57051e6dd.file.shop_tree_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ed/e6/b7/ede6b721c1861b18a04e2d811eae77383b005332.file.validation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ef/d4/c3/efd4c36cb5f891045c2d019f86f0fb81941c07bf.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f0/0b/9a/f00b9ac358053146448c0181acea9ef1b0e7f979.file.payment_return.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f2/47/6f/f2476f2db1b594106e4301f3851ee5f5118aa28b.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f2/84/97/f28497261d832fe39d82073ee3954875d625b303.file.blockbestsellers.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f2/df/62/f2df629b3a71599074a9ef59b82ee3e8218a72ff.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f3/75/20/f37520ea73afba6a4f415a9d45fd705380d0a4e8.file.dashboard_zone_two.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f4/cb/67/f4cb672772a21b15ac1ecf3255194ccb6d571893.file.tree_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f4/fc/f9/f4fcf9cbc1726944bede81cdd5643ab467678e46.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f5/19/eb/f519ebbecef38a2f5d0001f957670c2909117707.file.warning_module.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f7/ca/b8/f7cab8db1d2bfe3c1b60490336d6d00e6cdc2843.file.tree_toolbar_link.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f8/5d/b4/f85db44016c7b84e9c0e42b1e04610f86e812f1d.file.list_action_removestock.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f8/e6/3f/f8e63f73fd364f3420a03010c2cee2ad4d13783c.file.blockcategories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f9/1f/fb/f91ffbcac6875ce5581126193fe7d5eaf8ccb848.file.tree_node_item_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f9/34/49/f934496b3bcf4997027df7a5c3f001f2d3d9c792.file.tree_node_folder_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/fa/05/c6/fa05c67cdfa33cfbeb3ca8ff84fe55c995f3e43c.file.footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/fa/a6/e6/faa6e6ffa67a42ff42afbedc3c8446966f5182bd.file.engines.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/fa/c9/b5/fac9b555a6c1aba4bb97e122f8a0ceb91cb501b4.file.shopping-cart.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/fd/57/29/fd572991e946bb225872a8c0e47e250e1c09c003.file.options.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/fd/64/b3/fd64b30b7480bf4be85f80603157cc4ea7146ff2.file.sitemap.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/fe/5e/b0/fe5eb0f9409c05bf691f6947d170f345c4bc4964.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ff/6c/df/ff6cdf9c54e33e9d9259e8db3242c5ecab304452.file.scenes.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/ff/c3/93/ffc393fff81cde9192cf8931c0e85c0acf7de81f.file.order-confirmation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/config/xml/blog-fr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/10-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/10-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/10-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/10-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/10-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/10-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/0/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/11-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/11-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/11-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/11-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/11-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/11-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/1/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/12-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/12-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/12-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/12-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/12-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/12-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/2/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/13-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/13-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/13-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/13-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/13-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/13-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/3/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/14-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/14-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/14-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/14-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/14-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/14-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/4/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/15-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/15-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/15-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/15-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/15-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/15-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/5/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/16-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/16-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/16-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/16-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/16-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/16-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/6/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/17-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/17-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/17-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/17-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/17-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/17-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/7/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/18-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/18-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/18-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/18-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/18-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/18-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/8/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/19-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/19-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/19-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/19-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/19-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/19-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/9/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/1/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/20-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/20-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/20-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/20-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/20-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/20-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/0/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/21-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/21-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/21-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/21-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/21-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/21-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/1/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/22-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/22-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/22-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/22-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/22-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/22-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/2/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/23-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/23-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/23-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/23-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/23-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/23-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/3/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/2/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/3-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/3-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/3-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/3-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/3-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/3-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/3/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/4-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/4-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/4-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/4-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/4-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/4-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/4/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/5-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/5-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/5-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/5-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/5-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/5-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/5/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/6-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/6-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/6-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/6-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/6-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/6-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/6/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/7-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/7-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/7-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/7-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/7-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/7-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/7/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/8-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/8-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/8-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/8-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/8-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/8-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/8/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/9-cart_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/9-home_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/9-large_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/9-medium_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/9-small_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/9-thickbox_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop/img/p/9/index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/cache/last_template_flush" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/cache/last_template_flush" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/last_flush" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/last_flush" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/class_index.php" afterPath="$PROJECT_DIR$/prestashop/cache/class_index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/22/67/fa/2267fac1bacdc8a1f946d29b887c935e70e83e4a.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/22/67/fa/2267fac1bacdc8a1f946d29b887c935e70e83e4a.file.search_form.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2f/6a/1e/2f6a1e288fe5849a104f2b4151b1383f02cfe85f.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/2f/6a/1e/2f6a1e288fe5849a104f2b4151b1383f02cfe85f.file.notification_bt.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/48/00/df/4800df3c3671fb1da232cabcc6e508b74435483b.file.modal.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/48/00/df/4800df3c3671fb1da232cabcc6e508b74435483b.file.modal.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/50/3a/61/503a6175c8d60e1f524285608d6faee4c8efd7b7.file.footer.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/50/3a/61/503a6175c8d60e1f524285608d6faee4c8efd7b7.file.footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/65/4d/d7/654dd7807559d80d1ead83bd9c208c1c79bed41d.file.content.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/65/4d/d7/654dd7807559d80d1ead83bd9c208c1c79bed41d.file.content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6f/7e/d6/6f7ed6c733fe8027fb5b3df62b8ce5b876fb1356.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/6f/7e/d6/6f7ed6c733fe8027fb5b3df62b8ce5b876fb1356.file.javascript.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7f/31/81/7f3181389d49890d544b43107efc5563ac7f7488.file.list_footer.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/7f/31/81/7f3181389d49890d544b43107efc5563ac7f7488.file.list_footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/82/de/00/82de00050357d5254b62edc75810e6d2059a808c.file.list_header.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/82/de/00/82de00050357d5254b62edc75810e6d2059a808c.file.list_header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/89/b6/fd/89b6fd44459d48b7bb4a18fbd94baca278179f7a.file.list.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/89/b6/fd/89b6fd44459d48b7bb4a18fbd94baca278179f7a.file.list.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/95/b8/85/95b885b10a0062583593139fd871c858f0c662b4.file.list_action_edit.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/95/b8/85/95b885b10a0062583593139fd871c858f0c662b4.file.list_action_edit.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a0/f2/f1/a0f2f113556db5043ff8d624dad7d1166ad924fd.file.options.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a0/f2/f1/a0f2f113556db5043ff8d624dad7d1166ad924fd.file.options.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a3/38/e1/a338e109b96738759fb582ca2a15109076b1c94a.file.header.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/a3/38/e1/a338e109b96738759fb582ca2a15109076b1c94a.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b6/55/8e/b6558ea50b3f5f78e3bb04ec32346ce9e7f2d0ec.file.hook.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b6/55/8e/b6558ea50b3f5f78e3bb04ec32346ce9e7f2d0ec.file.hook.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b6/ed/be/b6edbebd31a9cefbc3eaaa798a1c3d51639ea0fd.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/b6/ed/be/b6edbebd31a9cefbc3eaaa798a1c3d51639ea0fd.file.page_header_toolbar.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c2/a0/48/c2a048f6b4390e7c29a76f2727d66f38bb2f52ed.file.list_action_delete.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c2/a0/48/c2a048f6b4390e7c29a76f2727d66f38bb2f52ed.file.list_action_delete.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c6/4a/79/c64a7975e5e6dbebb91ee92c0461d9ddef9c3d3a.file.modal.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/c6/4a/79/c64a7975e5e6dbebb91ee92c0461d9ddef9c3d3a.file.modal.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/cc/c8/a4/ccc8a463cab32f8c66003bfa99decc4b086a7da6.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/cc/c8/a4/ccc8a463cab32f8c66003bfa99decc4b086a7da6.file.login_addons.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d1/1c/1e/d11c1e62fd894cfe535ed89b3fff9628fcdfefdf.file.list_content.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d1/1c/1e/d11c1e62fd894cfe535ed89b3fff9628fcdfefdf.file.list_content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d6/b1/3e/d6b13ea7e8e4673484612607c6624d96ba94586f.file.nav.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/d6/b1/3e/d6b13ea7e8e4673484612607c6624d96ba94586f.file.nav.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e0/71/c3/e071c379a218656bff14c36aece0af0b12366e81.file.layout.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/e0/71/c3/e071c379a218656bff14c36aece0af0b12366e81.file.layout.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f7/68/f4/f768f4aba1965ee3d9e63e04aef0c138e3b097d3.file.simple.tpl.php" afterPath="$PROJECT_DIR$/prestashop/cache/smarty/compile/f7/68/f4/f768f4aba1965ee3d9e63e04aef0c138e3b097d3.file.simple.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/config/xml/default_country_modules_list.xml" afterPath="$PROJECT_DIR$/prestashop/config/xml/default_country_modules_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/config/xml/modules_native_addons.xml" afterPath="$PROJECT_DIR$/prestashop/config/xml/modules_native_addons.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/prestashop/config/xml/must_have_modules_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/config/xml/tab_modules_list.xml" afterPath="$PROJECT_DIR$/prestashop/config/xml/tab_modules_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js" afterPath="$PROJECT_DIR$/prestashop/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/img/font.jpg" afterPath="$PROJECT_DIR$/prestashop_1.7/img/font.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/d8/5b63303165326336663233363933303465663538333664386661383738326261335d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/d8/5b63303165326336663233363933303465663538333664386661383738326261335d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css" afterPath="$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" afterPath="$PROJECT_DIR$/prestashop_1.7/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl" afterPath="$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -627,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ps_customtext.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ps_customtext.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop_1.7/modules/ps_customtext/ps_customtext.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
@@ -637,61 +42,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addresses.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/addresses.css">
+      <file leaf-file-name="ps_emailsubscription.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="152">
+              <caret line="25" column="80" lean-forward="false" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLTemplateSupplyOrderForm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop_1.7/classes/pdf/HTMLTemplateSupplyOrderForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-328">
+              <caret line="193" column="8" lean-forward="false" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="66" column="72" lean-forward="false" selection-start-line="66" selection-start-column="72" selection-end-line="66" selection-end-column="72" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/head.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-648">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/index.php">
+      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding>
+                <element signature="e#1428#1434#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homeslider.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/homeslider.css">
+      <file leaf-file-name="theme.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/images/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manufacturer.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/manufacturer.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-641">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -723,6 +134,8 @@
     <findStrings>
       <find>homepage-slider</find>
       <find>custom-text</find>
+      <find>block_newsletter col-lg-8 col-md-12 col-sm-12</find>
+      <find>$free_text</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/prestashop/themes/Theme1/css</dir>
@@ -743,6 +156,9 @@
         <option value="$PROJECT_DIR$/prestashop/themes/Theme1/css/global.css" />
         <option value="$PROJECT_DIR$/prestashop/themes/Theme1/js/modules/homeslider/js/homeslider.js" />
         <option value="$PROJECT_DIR$/prestashop/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js" />
+        <option value="$PROJECT_DIR$/prestashop_1.7/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" />
+        <option value="$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl" />
+        <option value="$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css" />
       </list>
     </option>
   </component>
@@ -800,6 +216,102 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="prestashop_1.7" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop_1.7" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop_1.7" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop_1.7" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop-1.6" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop_1.7" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -886,7 +398,7 @@
       <updated>1487552890071</updated>
       <workItem from="1487552892510" duration="701000" />
       <workItem from="1487554271450" duration="1755000" />
-      <workItem from="1487593024000" duration="2416000" />
+      <workItem from="1487593024000" duration="5367000" />
     </task>
     <task id="LOCAL-00001" summary="update theme text">
       <created>1487553313247</created>
@@ -899,17 +411,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4872000" />
+    <option name="totallyTimeSpent" value="7823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="27" width="1871" height="1054" extended-state="6" />
+    <frame x="50" y="27" width="1871" height="1054" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.59828144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47583243" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1163,6 +675,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="25" column="80" lean-forward="false" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/classes/pdf/HTMLTemplateSupplyOrderForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="193" column="8" lean-forward="false" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="66" column="72" lean-forward="false" selection-start-line="66" selection-start-column="72" selection-end-line="66" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="e#1428#1434#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding />
         </state>
       </provider>
