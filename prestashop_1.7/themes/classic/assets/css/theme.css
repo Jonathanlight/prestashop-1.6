@@ -5,7 +5,6 @@
     background-image: url("http://localhost/prestashop-1.6/prestashop_1.7/img/font.jpg") !important;
     background-position-y: -272px !important;;
 }
-
 .ui-autocomplete-input{
     background-color: #2b2b2b !important;
     color: #ffffff !important;
@@ -14,15 +13,17 @@
     background-color: #2b2b2b !important;
     color: #ffffff !important;
 }
-.blockcart .header{
-    background-color: #2b2b2b !important;
+#block_myaccount_infos{
+    border: 5px solid red !important;
+}
+#header .header-nav .blockcart{
+    /*background-color: #2b2b2b !important;*/
     color: #ffffff !important;
 }
 #wrapper .banner{
     border: 5px solid red !important;
     display: none !important;
 }
-
 #search_filters{
     border: 5px solid red !important;
     display: none !important;
