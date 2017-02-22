@@ -214,6 +214,8 @@ class AdminThemesControllerCore extends AdminController
             'image_link' => Context::getContext()->link->getAdminLink('AdminImages')
         );
 
+        var_dump("yooooooooooooooooooooooooooooooooo");
+
         return parent::renderView();
     }
 
