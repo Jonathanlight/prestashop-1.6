@@ -1,8 +1,409 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74fe9290-aaed-45fe-aa6f-d337527dfcba" name="Default" comment="">
+    <list default="true" id="74fe9290-aaed-45fe-aa6f-d337527dfcba" name="Default" comment="creation des modules">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/c/3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/font2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/shoplights-logo-1487764422.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/su/1-large_default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/su/1-medium_default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/su/1-small_default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/tmp/4db01bab54ee81f37ea47c89a0023682.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/tmp/carrier_mini_2_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/tmp/category_3-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/tmp/category_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/tmp/category_4-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/tmp/category_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/tmp/supplier_mini_1_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/ps_banner/img/0a27366d99f4f530b587879faa734f06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/.idea/prestashop_1.7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/annotations/46/5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c6572236d616e616765416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/annotations/6f/5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c6572236e6f74696669636174696f6e416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/annotations/c6/5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c6572236d6f64756c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/XType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58adaed2919f7/XType/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/moduledemo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af0248306e8/moduledemo/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/moduledemo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af03c1c8095/moduledemo/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/modeXtype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af049f75de4/modeXtype/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/modeXtype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58af05a3be3d8/modeXtype/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/02/02c1cfad252694e84e372cdaafd5a686a1cea7a6270d2edcdae4765fc99dbdb9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/07/078a39b85b56d7cfbf789babeda5ebb2b35c2f29bb35a2750050c8fa5c5156da.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/09/090df102bdcbc622100a3b00359b750b92ce7662abf47ec9cce31fff1ce9526a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/09/0920377e9749e77f79c02a0b35afecb51d7df2f8e1121159eab51060d8626c21.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/09/09372a30c9fbed172917cde8e3f876eac696a8db32244bc7613930fcb3306a0f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/09/0981991772257b4f025098a2e41ab168d6892dbba6b81b2eb35550a854c76d5c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/0a/0a1e31e37bd2f63cffd82b931f8833daf51baa912f705dd13cbdf4133fbfd97b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/0c/0cc146f418ff88188af2e2a79476da307beb522982d377801871bfb72581a9f7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/10/10754c8a92944327f5285530063118630d8fab66419599428d3b90aa29f28e00.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/11/115afdc13e6d72ed260602446003850d7c880426e92e6fc5c3d2e1ce4f8eca4f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/18/185a585e8aa9295de6bb08805ae00358227437a71be8d4e64430557a3a7957d3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/18/18608e196a075759b63677e384eca36aef91f523b4c42ae24d445bed399876ac.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/18/1891f6862226a663110ff86858ec0fdb47ef471a822a64e7d79450b0cf2e15cb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/19/19c1239dc1e0ed60d9e64899efa7c2d563450d6c2c3192fe6134aac9a8103656.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/1a/1a0673241d3977606eacdbfd29406f043dbdcd380356e9150115812ac8ded4bc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/1b/1bdd739bd20fc78b6a38c421838f5b9603998b618bc8bf1182d522f4d3f8eaa9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/1e/1e993537a02a026efacb0e533e68defe552c2dfc474f22f03125345032b7c01b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/1f/1ff3b26550b28e13a6997f27135f72580cbf4fc29aa7808dc3422189f34cbf04.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/20/2092939ecee4edd59e36471a8c7792111229965147192ea8aed34bcd373deeb7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/20/20de04b57d8a145cb8626709216f23b7ad3d51c5b3a3a42c53817f4f888a38f0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/23/23206945b29d13aabe9f6d8e75025de12cd773f9d5c451e7d109aed232057f09.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/23/2339fecfb651e5068aaeac9e06e58bb36a4b8c9aafe483ca3ba555ac0d865069.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/2e/2ebe31321841c1f2614b27806259b38bea95c65fb8cfb37cac6068d1a09c865e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/2f/2fa572cfde7d95c816768a41c7519c349678d871e427ba8b1e160dc8e01e3337.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/31/31b0270ede1f6b63a1468c065f433fa33c8cbbc185d1469f696373fd949991bb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/37/378df480c01ba37957589e4ca5f9b276a15d71d9b1d255ddd29ae61f68ad6679.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/3d/3d3f45871b242296fe2e0246b672da1550a0e4a14b163717b673604a509e1a27.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/3d/3d9e6fc2fb737f5b5e857f9a6cb1146c3f0616f9514b5921608c0432c795a4ed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/3e/3e02a2d6e2a63051ee9106d4bd2d0d9d68f1a108a956184ffef3623a675a9c8c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/3f/3f9f845c07e4d25c7b07652ab79aa429ba3d40ce95412a75e7e82076e464802e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/40/40902cac214b2b8d827f1ed6325b6ae1d1cff4bfc00d37c5504945bd0235741d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/42/424d3d3134c625e987465e019454db722d3e76f66cddbe9d81b0fa1b300b101c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/42/42ea31f3b766e51888c391c4f2eb41b9c4f10380a0340edc9f6bb38dd91db064.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/46/4647f5d5c6038a0c18e53580b0950cbb7380c2ac79eaae234b2c3b40bb7a7941.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/49/49ed25dba9b33c97c500d05e6021a3f77a178b33c6de256cc271fe7c23fb10e8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/4b/4b2c879dfe756b4f3e5f35593fa990e05d2ac77eb07fc4da7f93f733e973282b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/4b/4b2ff4700d5e7f0b6af925f1408418cf10b80fd1d0516567aa3ea2e6d5ed61e3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/4b/4b4af21e301518db070fb48166ab8d801cce85820a918979d056606c3de650d7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/4d/4d6d37e7e1db5d551be2a8e446454fcf40f17060b1a87a3ebf77db34ff8a2b2f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/4d/4dd248492893c750e08b7d3b801b154ab8b6bf49bc08000cbc217a4382f41310.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/4e/4e60363059e1e92b108149ce2c048fce41344f6c10ff79a32b4cb719ebb4113d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/56/561f108c8742e0e7a765c46c1c63cf009f2b0ae29477db741c1083e64235db0e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/56/56595fed5c7826d13c1b3deb3c6e6fd60e43cf94845173baa8243e9eca5e30d1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/57/579e34805546c9c3971497a8d1c783ad86069741d839e59cdc0dc61248c6487f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/58/580eaa41b6867b95f388c47575dff1dd5723572f7d015ed083d6502b18bfdc39.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/5c/5cbc0f96d939c53bbbd24021975841b39216d07e2f402a889a0d031355dd35f5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/5e/5ea3f790f3f19e0dabdb52d5199a04f42a2aa958f064bf72ea91801cfd3c9b4f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/5e/5eeb63242feb3aac1d8a36734f3ce3c2e6ff1302e5a42fe1dd5ca69e383dc000.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/5e/5efb908a307fa06b09c8c26f73cff47523d10939d4f919b40ae85212f8dffb0e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/60/60716bb7520135ce0cb022ee67fe70d7d211122a69638b988f39fcc641c0986d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/63/63281b17053f24ab777aef11e7bc54844e08ffbf549f62ca66200e8dba18fe05.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/65/653293544759a2410e782acb1c0503effe053d282df02ad7b6e1ae938d31554a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/6a/6a930b2cf5872429cf4ab3e772f565464d748ba8e7313d95d5582080cd8f18b0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/6b/6b35ede683870e9feeb8fa08a113871e66fa8bd04b93c7a52a310b1cc99d5ddd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/6b/6b8bf819a77d60fff5805d1d6289fbc95b426557f9367622de2bddd2328ba2c2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/6c/6c0b02ed82c58fb3029cb1e323ed4677c1e862b3ed47060c1c744413a5cbba89.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/6c/6c9274bf963d34c44f2ee4faa785a936f1f4f03f7334c938f918d999ab9eac88.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/6e/6ecc8590fd5c9ca52a312299a5374fd0931b75714c7197a47b53e225b9b7e7b8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/73/733ae6396ccc74a9cde39efbc2e26c6c2c79fcc9164aecf0a2a713bca0e7de68.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/74/740a8e54ced8c7159f1a118dd7575314f3488acf6e05bbf3db4adfdd85a804e0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/7f/7f2318727b8a478a9d1b299f87c41833b49a72d2c7b074e73c9eb3b97a190182.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/7f/7f486cb101ab7bdb744f61f3bb1b3cb1d2dd80fafc464a738da3eae919dfc11c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/83/831520d04b86886cf274d6d49bf986604893ccd12cf549c3e2df451ed2fc1890.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/83/835fd341e87027d0bad63c5874994ba4642616800d28da1fd8321847595b3600.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/85/85360d75445b637a4ad3a5cb3914b94fe0711db5a236003d87e7e522fadaf6e3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/89/89fbfb22c6a0d1f60d95d1b3fc09a34af21a631df1aceb8e1ee6877c5a63d51b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/8f/8f070ee8d1c979d33ab2a8add35006f47fc4cb2ed609c0658f20c7ce3536b652.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/8f/8f45cba1b7fa1dd097331e0fda3c027dcface9565362279048a28962381e30ee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/91/91f79f3496207d0472dfe158dae7c9b75c224c569a9b636bd34122a36cf920c7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/93/930d6b510d34caa6a7929b7b8fe0f7bf81a2d33fa483d71fc8b63883e93c2494.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/95/95578594db21784d9b83a5545ea059c67dc58867192d963ba3fbd741495b6749.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/95/95ad049dace29a75a890460cbadd02218bce95e26358e7489c66cb865559f533.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/96/96eaabb7dca1faa73bdb432696db5d4a05de2e91d662dd767ab20fe1546e744d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/9a/9a19fcafdbe8099650afb5aaaa73ddd36f1bac75e2950064e6bb6d6fc0e51237.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/9a/9a8f16100fc02760e6f9b1e7cd3657701233dd3307d9835ded2bebe9fa1c65af.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/9e/9e2ca48c38a096f6df37c0a2e90ce2271ecad1787149348b929d236979cde71a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/9e/9e643777467035329e16ad40753d828dc4a4f37c17d2e949cfc7de1e00994ebd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/9e/9e6c2f5753183b70726c3fa3a2bb80a0b70c3104eb743b4ffe1e68b9b575d46a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/a0/a032973649092879e332ee07b23ef906551de240a15d80749f71331bba24cfb4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/a2/a269e5462faf531657629bf2d7956b089799398fb67142ec4a207c28887cd837.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/a2/a2c28d0edd0eb20ed6adcdf4c18a78144b4965d4cbaa188cd18f910e06abcceb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/a5/a53f442dc25e44a544d7ecefbc29fb6763c65ca53d743a0bc1e9b0380ea0fd15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/a6/a6e39f6158b431efe5ad784578459dbda5dec92fe317b846dd7f7d236c7c1fb2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/a9/a973277d8ebbe739efe577b7be6e2e113350b52ba3ef1315f3d0ff4c7160125e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/b5/b5051b5e058d8adf1ff3e2e105cf6bf935f0337a225b538929e6629dc36209d3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/b7/b702222b512b6e8440427bc08a54e27a19b88efae098b5a3af3abc5a8c218fec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/b7/b7db0d86399d2f2731427878e8e09c5c2fc9ccd88e233c58474531aec2a0b2a3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/bb/bbe3cc255d7fbda33b71d5aede4a42b754e28bd42f4e20722aabdbd6432dfffb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/bc/bc02bb3a5b5ca4ad75384f2a4e5acf7078e6711b75939ba52e97e7079b4da69e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/bc/bcbd460f6c9f0737ac6e3c7fac74180b9d437a747cad360f4ce65491b957e49b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/be/be786956b676f37a23f9f3819d3473ebc276e2ffba27bc509e2a66b4162aeed6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/bf/bfe5bbc8a6c5b108c46f8f4c36f17f228497261e2c0c49fec7b72224dde9a704.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/c1/c1255d1f19110d8ca13eff811fcfa7c72c677ff9e902a3ef4d356dbfccc0978a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/c2/c24f19b20a11d1daaf17f72f4b6b70d5bd8892833cb95bde5142c66170abdcfe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/c6/c6b1eeeaa6c4b4d9c27a381bfe20d0ab56ad28b069c35b7d19e2e2e6db98e443.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/c7/c7a71a8af1deb0f8b3e08d22cb6f2ab63c7042d3932b9472554f14c1d7d6fed4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/cb/cb9c5197d139dad367265a3af5d3b1c28b6db6f0c9dff4bab2c7f91278b22dc0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/cc/ccbf6b6c9c6a922a34cded2f33b106be321edb17dea32ea9409a61a16e59fb60.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/ce/ce913f97769f98a86aaac076001f348740d75120f8291ee1537639470bc86ca6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/ce/ced0f5798b728b8f7d80643b4d7eee28a5eb19385b2bf0bbe08e31e38c3a70b7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/cf/cf7ace3b17b967d0646eb44c48701375d6e20133fd569efd0402d78d3bca4ac1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/d1/d1f9fb5ee91a3b30ea60c324121c6fec9573f642253e45e94932c408353839a7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/d2/d2970d50de33edad98c6442664136c51bd1bc21c164ee2d762c0783f271e1436.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/d6/d63800a2189a90768669bebc62604eb3c528fb663da1b00b751694094bd08eea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/d6/d66eaf2142fd9be5cd190ccd43a1b30c88757b04f38e5e42cc4b21bfda198b97.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/d8/d883802b53cea67cd019a8cd23ed1b4b7ae2f3b2c38d84d7666bfc223ffe44a3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/da/daa811bec5151f3b4d5ca1198b4dd9f3133991569f86926285d236829b5c3a5a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/da/dae3bf68899f1f6144628c00880347fdbd70d82fc0fd3221b29e99f0dde1c7e7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/dd/ddd73b42de309c8c62bcc07f8beddccaa49bd2e63bfd8dc4fd681396c1278245.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/e1/e1dfe704903e2bd06f4ebdfe7ece3fd572a6b4b530d8eef59e8c176f8bfa4f47.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/e3/e3269ff19169b3954696bf796e33f7faa5f4fbb9e18f0a5aaba5669a9c7c64eb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/ee/ee0b6132fe8382e14506b0a5392e20e34138defe507496a304981cfe481c1edd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/f1/f1ff3b6284602371c5e99abab6796ca163b64a50b6756399ce37ded78e0db668.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/f2/f2411966eeca1e1d3e4f5368ee15fe7ddb60973afaad44e8ab30583086045dcd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/f6/f6abefe5712480d600aaf11411aa7d5adc837efb2bf35176e0b9adf586d77d8d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/f6/f6f2a2d3afe5fa21a54f85125c5449d89e59ddb3d66d97a2fbc4197cfc4e5437.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/fb/fb446defe9f80d4de318794afb79ad84db46329a0cf182067d7e42647118cf1b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/fd/fd3352660df823dc95a9db47af6e73441b1e065bb7a7d49a387eeeecdab09324.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/fe/fea33953bd50e4e4e5f2fa5e580dd67c7d5af277ee9336915459df2bbfe8f100.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/ff/ffce7389473237cb1a2145ea0f2986eb60b3223127d3703667d61ed41c5ca679.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/img/su/fileType" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/XType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/config_fr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/XType/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/config_fr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/modeXtype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/modeXtype/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/moduledemo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/sql/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/sql/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/sql/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/upgrade/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/upgrade/upgrade-1.1.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/css/back.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/css/front.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/js/back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/js/front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/templates/admin/configure.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/moduledemo/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/stripe_official/config_fr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prestashop_1.7/modules/testmodule/config_fr.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/sql/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/sql/install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/sql/uninstall.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/testmodule.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/translations/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/upgrade/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/upgrade/upgrade-1.1.0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/css/back.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/css/front.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/css/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/img/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/js/back.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/js/front.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/js/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/templates/admin/configure.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/templates/admin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/sandbox/58ad56d525440/testmodule/views/templates/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/08/087f04b94012f7a10470e1444ca0346cd22b0477fa0e322fafc5987f3d2bac47.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/19/19d4801b1f12527cd48749532b9daa949f2d86967f38a8ac7363df847b3c1039.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/1b/1b51255c004c9f59c12837407d7fb1d6c5065fec2d698d668a253f6a94ed6f80.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/4f/4f017ff6e68f0e19ac7680291319a68b2e789b60528bcaf6a2e80b28dcbe96bb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/56/56b642ff0b9ec4e032e83abc6c8736ad8dcd97f90e01cfa3f5c3af7d164fa9fd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/62/6214d584eb832d10135c8be7cd4782ee8b68cbaeaec8110aba8f9f151071ecff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/84/8468722482c781c7e998496d2691912901c8f0c30d1a54d4b2a405b027df1f1f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/84/84a7893d91f5b31e4ab4b313f08bb873af4065f4541f44620927188b95bd6e84.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/8e/8e4dc4a037050a78efcf85fe9eb0cf55bb699568b969561b7626e0eab69048ed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/c6/c69b42542e661bfb1966f7fca9122f324bf8e22c165d71a1cb9ab0b943f4d11e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/db/dbaff6ca27e5953804926092cc0f0007d53176bebf87d144d65dfc464c440075.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/5/25-cart_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/5/25-home_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/5/25-large_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/5/25-medium_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/5/25-small_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/5/25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/5/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/8/28-cart_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/8/28-home_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/8/28-large_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/8/28-medium_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/8/28-small_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/8/28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/8/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/9/29-cart_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/9/29-home_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/9/29-large_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/9/29-medium_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/9/29-small_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/9/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/p/2/9/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/img/shoplights-logo-1487606772.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prestashop_1.7/modules/ps_banner/img/sale70.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/img/c/3-category_default.jpg" afterPath="$PROJECT_DIR$/prestashop_1.7/img/c/3-category_default.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/img/c/3-small_default.jpg" afterPath="$PROJECT_DIR$/prestashop_1.7/img/c/3-small_default.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/img/c/3.jpg" afterPath="$PROJECT_DIR$/prestashop_1.7/img/c/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/img/su/1.jpg" afterPath="$PROJECT_DIR$/prestashop_1.7/img/su/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/prestashop-1.6.iml" afterPath="$PROJECT_DIR$/.idea/prestashop-1.6.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/appProdProjectContainer.php" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/appProdProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/class_stub.php" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/class_stub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/fr_addons_modules.json" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/fr_addons_modules.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/10/5b65343532663065313562343566666433383065363837396163393962303930315d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/10/5b65343532663065313562343566666433383065363837396163393962303930315d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/1a/5b66633435623137396161366661373861363932626363656132333334636564635d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/1a/5b66633435623137396161366661373861363932626363656132333334636564635d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/ac/5b66663430333866333130663661396561616536356531383531323465346530625d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/ac/5b66663430333866333130663661396561616536356531383531323465346530625d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/b1/5b63666633653731656363613863326535303663643063313964343630336266335d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/b1/5b63666633653731656363613863326535303663643063313964343630336266335d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/d8/5b63303165326336663233363933303465663538333664386661383738326261335d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/guzzle/d8/5b63303165326336663233363933303465663538333664386661383738326261335d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/local_modules.json" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/local_modules.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/namespaced_class_stub.php" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/namespaced_class_stub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/ps_mainmenu/MOD_BLOCKTOPMENU_MENU_JSON_1_1.json" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/ps_mainmenu/MOD_BLOCKTOPMENU_MENU_JSON_1_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/07/07aa460a424a5cebfef848cf8bd2a0351fccaf42b572eed03eaab7c81f3d893a.php" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/07/07aa460a424a5cebfef848cf8bd2a0351fccaf42b572eed03eaab7c81f3d893a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/c9/c9687de0b831c35f9f0b58d6001e379d38cb72d9b5afa6f7e0664c895b52bbb7.php" afterPath="$PROJECT_DIR$/prestashop_1.7/app/cache/prod/twig/c9/c9687de0b831c35f9f0b58d6001e379d38cb72d9b5afa6f7e0664c895b52bbb7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/config/xml/blog-fr.xml" afterPath="$PROJECT_DIR$/prestashop_1.7/config/xml/blog-fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/config/xml/default_country_modules_list.xml" afterPath="$PROJECT_DIR$/prestashop_1.7/config/xml/default_country_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/config/xml/modules_native_addons.xml" afterPath="$PROJECT_DIR$/prestashop_1.7/config/xml/modules_native_addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/prestashop_1.7/config/xml/must_have_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/config/xml/trusted_modules_list.xml" afterPath="$PROJECT_DIR$/prestashop_1.7/config/xml/trusted_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/config/xml/untrusted_modules_list.xml" afterPath="$PROJECT_DIR$/prestashop_1.7/config/xml/untrusted_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/img/fileType" afterPath="$PROJECT_DIR$/prestashop_1.7/img/fileType" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css" afterPath="$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,20 +419,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/header.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1015">
-              <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ps_customtext.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop_1.7/modules/ps_customtext/ps_customtext.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
+            <state relative-caret-position="450">
               <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding />
             </state>
@@ -43,9 +434,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="25" column="80" lean-forward="false" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,8 +442,20 @@
       <file leaf-file-name="HTMLTemplateSupplyOrderForm.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop_1.7/classes/pdf/HTMLTemplateSupplyOrderForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-328">
+            <state relative-caret-position="18">
               <caret line="193" column="8" lean-forward="false" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
+              <folding>
+                <element signature="e#6#994#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XType.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prestashop_1.7/modules/XType/XType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="201" column="6" lean-forward="true" selection-start-line="201" selection-start-column="6" selection-end-line="201" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -63,11 +464,9 @@
       <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
+            <state relative-caret-position="1188">
               <caret line="66" column="72" lean-forward="false" selection-start-line="66" selection-start-column="72" selection-end-line="66" selection-end-column="72" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,7 +474,7 @@
       <file leaf-file-name="head.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/head.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-648">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -85,40 +484,18 @@
       <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="756">
               <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-              <folding>
-                <element signature="e#1428#1434#0#HTML" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="theme.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/global.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-227">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-108">
+              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -155,6 +532,7 @@
         <option value="$PROJECT_DIR$/prestashop_1.7/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" />
         <option value="$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl" />
         <option value="$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css" />
+        <option value="$PROJECT_DIR$/prestashop_1.7/modules/XType/XType.php" />
       </list>
     </option>
   </component>
@@ -189,6 +567,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,7 +608,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,73 +626,16 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classic" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prestashop-1.6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prestashop-1.6" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prestashop_1.7" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classic" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prestashop-1.6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prestashop-1.6" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prestashop_1.7" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classic" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="XType" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -395,6 +717,7 @@
       <workItem from="1487552892510" duration="701000" />
       <workItem from="1487554271450" duration="1755000" />
       <workItem from="1487593024000" duration="6472000" />
+      <workItem from="1487865511336" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="update theme text">
       <created>1487553313247</created>
@@ -407,7 +730,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8928000" />
+    <option name="totallyTimeSpent" value="9403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="27" width="1871" height="1054" extended-state="7" />
@@ -417,7 +740,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47583243" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -428,6 +750,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47583243" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -440,40 +763,49 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update theme text" />
-    <option name="LAST_COMMIT_MESSAGE" value="update theme text" />
+    <MESSAGE value="creation des modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation des modules" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/header.tpl">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/modules/ps_customtext/ps_customtext.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="80" column="42" lean-forward="false" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+        <state relative-caret-position="450">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/footer.tpl">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        <state relative-caret-position="450">
+          <caret line="25" column="80" lean-forward="false" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/js/addresses.js">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/classes/pdf/HTMLTemplateSupplyOrderForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="3060">
+          <caret line="193" column="8" lean-forward="false" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#6#994#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/global.css">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="66" column="72" lean-forward="false" selection-start-line="66" selection-start-column="72" selection-end-line="66" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/head.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -481,89 +813,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/header.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/footer.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/js/addresses.js" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/global.css" />
     <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme2/header.tpl" />
     <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme2/history.tpl" />
     <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme2/footer.tpl" />
     <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme2/history.tpl" />
     <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme2/footer.tpl" />
     <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme2/header.tpl" />
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/js/addresses.js">
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/js/addresses.js" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/footer.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/contact-form.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/modules/homeslider/homeslider.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/js/modules/homeslider/js/homeslider.js" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/modules/homeslider/homeslider.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/sass/modules/homeslider/homeslider.scss" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/css/modules/homeslider/homeslider.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/product.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/identity.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/global.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/category.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/addresses.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/index.php" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/homeslider.css" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/images/index.php" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/manufacturer.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop/index.php" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/index.php" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/global.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/header.tpl" />
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="61" lean-forward="false" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+        <state relative-caret-position="1188">
+          <caret line="66" column="72" lean-forward="false" selection-start-line="66" selection-start-column="72" selection-end-line="66" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/contact-form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/modules/homeslider/homeslider.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="30" column="99" lean-forward="false" selection-start-line="30" selection-start-column="99" selection-end-line="30" selection-end-column="99" />
-          <folding>
-            <element signature="e#1345#1391#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/js/modules/homeslider/js/homeslider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/modules/homeslider/homeslider.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/sass/modules/homeslider/homeslider.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="153" column="5" lean-forward="false" selection-start-line="153" selection-start-column="5" selection-end-line="153" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/css/modules/homeslider/homeslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1296">
-          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/product.css">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/head.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -571,105 +877,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/identity.css">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="756">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/global.css">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="273" column="0" lean-forward="false" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/category.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/addresses.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/homeslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/css/modules/homeslider/images/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/manufacturer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-641">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/global.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-227">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/Theme1/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1015">
-          <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        <state relative-caret-position="-108">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prestashop_1.7/modules/ps_customtext/ps_customtext.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="450">
           <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
@@ -679,52 +905,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="25" column="80" lean-forward="false" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prestashop_1.7/classes/pdf/HTMLTemplateSupplyOrderForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328">
+        <state relative-caret-position="18">
           <caret line="193" column="8" lean-forward="false" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="66" column="72" lean-forward="false" selection-start-line="66" selection-start-column="72" selection-end-line="66" selection-end-column="72" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#6#994#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/head.tpl">
+    <entry file="file://$PROJECT_DIR$/prestashop_1.7/modules/XType/XType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/templates/_partials/footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-          <folding>
-            <element signature="e#1428#1434#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop_1.7/themes/classic/assets/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="349">
+          <caret line="201" column="6" lean-forward="true" selection-start-line="201" selection-start-column="6" selection-end-line="201" selection-end-column="6" />
           <folding />
         </state>
       </provider>

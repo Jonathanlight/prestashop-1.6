@@ -11,8 +11,8 @@ class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14b
         $this->parent = $this->loadTemplate("PrestaShopBundle:Admin:layout.html.twig", "PrestaShopBundle:Admin\\Product:form.html.twig", 25);
         $this->blocks = array(
             'content' => array($this, 'block_content'),
-            '__internal_c71f30d8ec7b3d57a3652184dfba2ef353cc30d4e687da605f4e9b467edc5ff2' => array($this, 'block___internal_c71f30d8ec7b3d57a3652184dfba2ef353cc30d4e687da605f4e9b467edc5ff2'),
-            '__internal_9d618058c1b7ef0d3525ae55f99d09ee96a403f9ce91c7bdd888c68fb14f2e87' => array($this, 'block___internal_9d618058c1b7ef0d3525ae55f99d09ee96a403f9ce91c7bdd888c68fb14f2e87'),
+            '__internal_242d3f75b65e6789ae5a0ff4290f37f434009acb16b467fc4129ba7f438485bb' => array($this, 'block___internal_242d3f75b65e6789ae5a0ff4290f37f434009acb16b467fc4129ba7f438485bb'),
+            '__internal_76f4a14153eb685a9371d3982ed4f953a33cd43ee8a2372f0d6bf99783ee5c1a' => array($this, 'block___internal_76f4a14153eb685a9371d3982ed4f953a33cd43ee8a2372f0d6bf99783ee5c1a'),
             'stylesheets' => array($this, 'block_stylesheets'),
             'javascripts' => array($this, 'block_javascripts'),
         );
@@ -428,7 +428,7 @@ class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14b
                           class=\"feature-collection nostyle\"
                           data-prototype=\"";
         // line 218
-        echo twig_escape_filter($this->env, (string) $this->renderBlock("__internal_c71f30d8ec7b3d57a3652184dfba2ef353cc30d4e687da605f4e9b467edc5ff2", $context, $blocks));
+        echo twig_escape_filter($this->env, (string) $this->renderBlock("__internal_242d3f75b65e6789ae5a0ff4290f37f434009acb16b467fc4129ba7f438485bb", $context, $blocks));
         // line 220
         echo "\"
                         >
@@ -1674,7 +1674,7 @@ class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14b
                           <ul class=\"customFieldCollection nostyle\" data-prototype=\"
                                       ";
         // line 854
-        echo twig_escape_filter($this->env, (string) $this->renderBlock("__internal_9d618058c1b7ef0d3525ae55f99d09ee96a403f9ce91c7bdd888c68fb14f2e87", $context, $blocks));
+        echo twig_escape_filter($this->env, (string) $this->renderBlock("__internal_76f4a14153eb685a9371d3982ed4f953a33cd43ee8a2372f0d6bf99783ee5c1a", $context, $blocks));
         // line 856
         echo "\">
                             ";
@@ -2203,14 +2203,14 @@ class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14b
 
   ";
         // line 1098
-        $this->loadTemplate("PrestaShopBundle:Admin\\Product:form.html.twig", "PrestaShopBundle:Admin\\Product:form.html.twig", 1098, "592949526")->display(array_merge($context, array("id" => "confirmation_modal", "title" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Warning", array(), "Admin.Notifications.Warning"), "closable" => false, "actions" => array(0 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("No", array(), "Admin.Global"), "class" => "btn btn-tertiary-outline btn-lg cancel"), 1 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Yes", array(), "Admin.Global"), "class" => "btn btn-primary btn-lg continue")))));
+        $this->loadTemplate("PrestaShopBundle:Admin\\Product:form.html.twig", "PrestaShopBundle:Admin\\Product:form.html.twig", 1098, "1472510168")->display(array_merge($context, array("id" => "confirmation_modal", "title" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Warning", array(), "Admin.Notifications.Warning"), "closable" => false, "actions" => array(0 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("No", array(), "Admin.Global"), "class" => "btn btn-tertiary-outline btn-lg cancel"), 1 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Yes", array(), "Admin.Global"), "class" => "btn btn-primary btn-lg continue")))));
         // line 1119
         echo "
 ";
     }
 
     // line 218
-    public function block___internal_c71f30d8ec7b3d57a3652184dfba2ef353cc30d4e687da605f4e9b467edc5ff2($context, array $blocks = array())
+    public function block___internal_242d3f75b65e6789ae5a0ff4290f37f434009acb16b467fc4129ba7f438485bb($context, array $blocks = array())
     {
         // line 219
         echo "                            ";
@@ -2220,7 +2220,7 @@ class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14b
     }
 
     // line 854
-    public function block___internal_9d618058c1b7ef0d3525ae55f99d09ee96a403f9ce91c7bdd888c68fb14f2e87($context, array $blocks = array())
+    public function block___internal_76f4a14153eb685a9371d3982ed4f953a33cd43ee8a2372f0d6bf99783ee5c1a($context, array $blocks = array())
     {
         // line 855
         echo "                                      ";
@@ -2321,7 +2321,7 @@ class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14b
 
 
 /* PrestaShopBundle:Admin\Product:form.html.twig */
-class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14bab1f8_592949526 extends Twig_Template
+class __TwigTemplate_2e2b81ba7c8ac50deb200c9d8b73698c46987e5dd39943d969a2bacd14bab1f8_1472510168 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {

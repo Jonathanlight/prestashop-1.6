@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Script jQuery Effets de texte évolutif : Outils-web.com</title>
+<meta name="description" content="Script jQuery, Les différents paragraphes du texte s'affichent successivement en utilisant les lettres du précédent et affichant les nouvelles avec animation" />
+<meta name="Robots" content="all"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="http://code.jquery.com/jquery.min.js"></script> 
+<script src="scr/textualizer.js"></script>
+<link rel="stylesheet" media="screen" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div id="container"> 
+	<div id="txtlzr">
+		<p>Textualizer est un plugin jQuery qui vous permet de faire des transitions</p>
+		<p>Ces transitions sont calculées en fonction des caractères communs aux différents textes</p>
+		<p>Ces caractères communs restent, les autres disparaissent en laissant un espace</p>
+		<p>Les caractères restants sont réorganisés puis les nouveaux caractères viennent compléter l'ensemble</p>
+	</div> 
+</div> 
+<script type="text/javascript"> 
+	$(function() {
+		var txt = $('#txtlzr'); 
+		txt.textualizer();
+		txt.textualizer('start');
+	})
+</script>
+<!-- Source :  http://kiro.me -->	
+</body>
+</html>
