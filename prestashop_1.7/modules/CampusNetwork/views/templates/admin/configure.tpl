@@ -27,16 +27,14 @@
 <div id="menu-holder">
 	<div class="set-2">
 		<ul>
-			<li><a href="#" class="twitter-big">Twitter</a></li>
-			<li><a href="#" class="facebook-big">Facebook</a></li>
-			<li><a href="#" class="pinterest-big">Pinterest</a></li>
-			<li><a href="#" class="gplus-big">GPlus</a></li>
-			<li><a href="#" class="rss-big">RSS</a></li>
-			<li><a href="#" class="dribbble-big">Dribbble</a></li>
-			<li><a href="#" class="linkedin-big">Linkedin</a></li>
-			<li><a href="#" class="flickr-big">Flickr</a></li>
-			<li><a href="#" class="stumble-big">Stumbleupon</a></li>
-			<li><a href="#" class="vimeo-big">Vimeo</a></li>
+			<li><a href="https://www.Twitter.com/" target="_bank" class="twitter-big">Twitter</a></li>
+			<li><a href="https://www.facebook.com/" target="_bank" class="facebook-big">Facebook</a></li>
+			<li><a href="https://www.Pinterest.com/" target="_bank" class="pinterest-big">Pinterest</a></li>
+			<li><a href="https://www.Dribbble.com/" target="_bank" class="dribbble-big">Dribbble</a></li>
+			<li><a href="https://www.Linkedin.com/" target="_bank" class="linkedin-big">Linkedin</a></li>
+			<li><a href="https://www.Flickr.com/" target="_bank" class="flickr-big">Flickr</a></li>
+			<li><a href="https://www.Stumbleupon.com/" target="_bank" class="stumble-big">Stumbleupon</a></li>
+			<li><a href="https://www.Vimeo.com/" target="_bank" class="vimeo-big">Vimeo</a></li>
 		</ul>
 	</div>
 </div>

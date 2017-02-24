@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>SlidePop</name>
+	<displayName><![CDATA[SlidePop]]></displayName>
+	<version><![CDATA[1.0.2]]></version>
+	<description><![CDATA[qui faire des popup ou slide]]></description>
+	<author><![CDATA[Jonathan kablan]]></author>
+	<tab><![CDATA[slideshows]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

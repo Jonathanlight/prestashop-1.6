@@ -83,7 +83,7 @@
 	</script>
 
 <center>
-<div id="theLayer" style="position:relative;width:250px;left:100;top:50;visibility:visible; background: #452">
+<div id="theLayer" style="position:relative;visibility:visible; background: #2B2D2F">
 	<table border="0" width="250" bgcolor="#FFCC00" cellspacing="0" cellpadding="5">
 		<tr><td width="100%">
 				<table border="0" width="100%" cellspacing="0" cellpadding="0" height="36">
@@ -95,7 +95,9 @@
 						<td style="cursor:hand" valign="top"><a href="#" onClick="hideMe();return false"><font color=#ffffff size=2 face=arial  style="text-decoration:none">X</font></a>
 						</td></tr>
 					<tr><td width="100%" bgcolor="#FFFFFF" style="padding:4px" colspan="2">
-							<center><img src="http://www.gif-maniac.com/gifs/41/40683.gif" width="90" /></center>
+							<center><a href="#">
+                                    <img src="http://justeetsimplementmoi.j.u.pic.centerblog.net/85a2099f.jpg" border="0"  /></a>
+                                </center>
 						</td></tr></table>
 			</td></tr></table>
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>SEO_REF</name>
+	<displayName><![CDATA[SEO_REF]]></displayName>
+	<version><![CDATA[1.0.8]]></version>
+	<description><![CDATA[Info SEO pour aider au referencement]]></description>
+	<author><![CDATA[Jonathan kablan]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
