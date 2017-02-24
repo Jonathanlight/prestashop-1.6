@@ -13,7 +13,7 @@
 	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.prestashop.com/blog/fr</link>
 	<description></description>
-	<lastBuildDate>Wed, 22 Feb 2017 14:52:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Feb 2017 15:24:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -23,7 +23,7 @@
 		<link>https://www.prestashop.com/blog/fr/comment-proposer-abonnements-boutique-prestashop/</link>
 		<comments>https://www.prestashop.com/blog/fr/comment-proposer-abonnements-boutique-prestashop/#comments</comments>
 		<pubDate>Wed, 22 Feb 2017 14:38:18 +0000</pubDate>
-		<dc:creator><![CDATA[Sandra Fernandes]]></dc:creator>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
 				<category><![CDATA[Conseils E-commerce]]></category>
 
 		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=21221</guid>
@@ -34,15 +34,15 @@
 <p>Proposer à vos clients des abonnements ou des box de vos produits vous permet d’augmenter vos revenus mensuels et de fidéliser vos clients.</p>
 <p>Découvrez comment proposer différents abonnements à vos produits et également des abonnements à la livraison (“livraison Premium”) sur votre boutique PrestaShop.</p>
 <p><span id="more-21221"></span></p>
-<h2 style="color: #1e4848;">Les avantages des différents abonnements</h2>
+<h2 style="color: #1e4848">Les avantages des différents abonnements</h2>
 <p>Pour l’e-commerçant, les abonnements sont un moyen facile pour s’<b>assurer un chiffre d’affaires récurrent chaque mois, sans dépendre de l’acquisition de nouveaux clients</b>. Et ces revenus sont rapidement exponentiels ! C’est l’un des moyens les plus sûrs d’arriver rapidement à l’objectif de chiffre d’affaires fixé et de prévoir facilement d’un mois à l’autre le revenu qui sera généré.<br />
 C’est un moyen simple pour<b> fidéliser vos clients</b>, mais aussi pour <b>faciliter la gestion de vos stocks et augmenter le taux de conversion de votre boutique</b>.</p>
 <p>En fonction des produits que vous vendez et également en fonction des attentes de vos visiteurs, vous pouvez proposer différents types d’abonnement.</p>
-<h2 style="color: #1e4848;">Les “box”</h2>
+<h2 style="color: #1e4848">Les “box”</h2>
 <p>Il existe une multitude de sites de box ! Toujours en vogue, les box se déclinent pour les produits de beauté, bébé, le vin, les fleurs (telle que les boutiques <a href="http://www.blooms.fr/" target="_blank">Blooms</a> et <a href="http://www.tiniloo.com/" target="_blank">Tiniloo</a> sous PrestaShop), la déco, les bijoux, les paniers gourmands, les objets geeks…</p>
 <p>Les inscrits attendent impatiemment chaque mois (ou à la fréquence souhaitée) le “cadeau” auquel ils se sont inscrits. La magie de la box réside dans le fait que les inscrits ne savent pas exactement ce que contiendra leur box cette fois-ci… Cet effet de “surprise” fait de l’abonnement &#8211; pour lequel ils sont prélevés &#8211; un véritable cadeau.<br />
 Vous pouvez proposer certains produits en box, et d’autres à l’achat classique. Vous pouvez également proposer uniquement des box (de différentes tailles et prix) ou même… une seule box pour faciliter encore la préparation de vos expéditions !</p>
-<h3 style="color: #1e4848;">Avantages pour l’e-commerçant : </h3>
+<h3 style="color: #1e4848">Avantages pour l’e-commerçant : </h3>
 <ul>
 <li>revenus récurrents</li>
 <li>stocks gérables très facilement</li>
@@ -50,35 +50,35 @@ Vous pouvez proposer certains produits en box, et d’autres à l’achat classi
 <li>fidélisation des clients</li>
 <li>commandes identiques à préparer</li>
 </ul>
-<h3 style="color: #1e4848;">Avantages pour le client : </h3>
+<h3 style="color: #1e4848">Avantages pour le client : </h3>
 <ul>
 <li>un seul processus d’achat, une surprise reçue tous les mois (ou autre rythme)</li>
 <li>création d’un lien touchant à l’affect avec votre boutique, les clients considérant la box comme un réel “cadeau” (et oubliant presque qu’ils payent chaque mois pour cela).</li>
 </ul>
-<h3 style="color: #1e4848;">Fonctionnalité nécessaire pour le site : </h3>
+<h3 style="color: #1e4848">Fonctionnalité nécessaire pour le site : </h3>
 <ul>
 <li><a href="https://addons.prestashop.com/fr/529-vendre-par-abonnement-box" target="_blank">un module d’abonnement avec paiement récurrent</a> à choisir dans la sélection proposée.</li>
 </ul>
-<h2 style="color: #1e4848;">Les abonnements à des produits physiques :</h2>
+<h2 style="color: #1e4848">Les abonnements à des produits physiques :</h2>
 <p>Les plus grands sites e-commerce le proposent, et les internautes en raffolent ! Présentés avec une offre commerciale (<i>“économisez 10% en vous abonnant”</i>), ils augmentent rapidement leur taux de conversion.<br />
 Amazon Dash button permet à ses clients de ne jamais être à court de leurs produits du quotidien. Vous pouvez proposer la même chose à vos clients en leur permettant de souscrire à un produit avec abonnement. Les jeunes parents sont ravis de recevoir, à la fréquence souhaitée, le paquet de couches pour leur enfant, sans avoir à sortir et avant même de se retrouver en rupture de stock. Cela se décline pour tout, et même en B2B !<br />
 Vous pouvez proposer des abonnements sur l’ensemble de votre catalogue ou seulement sur certains produits.</p>
 <p>Exemple avec <a href="https://www.abonnement-cafe.com/abonnement-capsule-nespresso/16-100-capsules-ristretto-nespresso-compatible-8058454036092.html" target="_blank">abonnement-café</a> qui propose à ses clients de recevoir chaque mois des capsules de café à prix incitatif :</p>
 <p><img class="aligncenter size-large wp-image-21223" alt="Les abonnements à des produits physiques : " src="https://www.prestashop.com/blog/fr/files/2017/02/screen-2-1024x534.png" width="700" height="365" /></p>
-<h3 style="color: #1e4848;">Avantages pour l’e-commerçant : </h3>
+<h3 style="color: #1e4848">Avantages pour l’e-commerçant : </h3>
 <ul>
 <li>revenus récurrents</li>
 <li>stocks gérables facilement</li>
 <li>fidélisation des clients</li>
 <li>augmentation du taux de conversion</li>
 </ul>
-<h3 style="color: #1e4848;">Avantages pour le client : </h3>
+<h3 style="color: #1e4848">Avantages pour le client : </h3>
 <ul>
 <li>facilite le quotidien en leur faisant gagner du temps, en recevant ce produit à domicile au moment où ils en ont besoin, en leur évitant le stress d’être en rupture</li>
 <li>un seul processus d’achat</li>
 <li>satisfaction d’économiser (soit sur le prix total soit sur la livraison) en s’abonnant plutôt qu’en rachetant régulièrement le même produit à prix fort, avec les frais de port.</li>
 </ul>
-<h3 style="color: #1e4848;">Fonctionnalité nécessaire pour le site : </h3>
+<h3 style="color: #1e4848">Fonctionnalité nécessaire pour le site : </h3>
 <ul>
 <li><a href="https://addons.prestashop.com/fr/529-vendre-par-abonnement-box">un module d’abonnement avec paiement récurrent</a> à choisir dans la sélection proposée.</li>
 </ul>
@@ -92,34 +92,34 @@ Exemple : <a href="https://shop.quotidiano.net/">Shop Quotidiano.net</a> en Ital
 <li>prévision simplifiée du chiffre d’affaires à venir</li>
 <li>fidélisation des clients</li>
 </ul>
-<h3 style="color: #1e4848;">Avantages pour le client : </h3>
+<h3 style="color: #1e4848">Avantages pour le client : </h3>
 <ul>
 <li>un seul processus d’achat</li>
 <li>l’accès facilité et privilégié à des produits dont seuls les abonnés peuvent profiter</li>
 </ul>
-<h3 style="color: #1e4848;">Fonctionnalité nécessaire pour le site : </h3>
+<h3 style="color: #1e4848">Fonctionnalité nécessaire pour le site : </h3>
 <ul>
 <li><a href="https://addons.prestashop.com/fr/529-vendre-par-abonnement-box" target="_blank">un module d’abonnement avec paiement récurrent</a> à choisir dans la sélection proposée.</li>
 </ul>
-<h2 style="color: #1e4848;">Les abonnements la livraison (Livraison Premium) :</h2>
+<h2 style="color: #1e4848">Les abonnements la livraison (Livraison Premium) :</h2>
 <p>Les frais de livraison causent près de 50% des abandons de paniers, et en revanche, la rentabilité est en forte baisse si vous proposez les frais de port gratuits… On a la solution ! Vous pouvez dès maintenant proposer à vos clients un <b>abonnement Premium à la livraison</b>, comme le font Amazon et les plus grands sites e-commerce.</p>
 <p>Vos clients paient leur abonnement à la livraison puis profitent de frais d&rsquo;expédition gratuits ou à prix très avantageux pendant toute la durée de validité de leur abonnement Premium.</p>
-<h3 style="color: #1e4848;">Avantages pour l’e-commerçant : </h3>
+<h3 style="color: #1e4848">Avantages pour l’e-commerçant : </h3>
 <ul>
 <li>fidélisation des clients</li>
 <li>augmentation du taux de conversion</li>
 <li>réduction des paniers abandonnés</li>
 </ul>
-<h3 style="color: #1e4848;">Avantages pour le client : </h3>
+<h3 style="color: #1e4848">Avantages pour le client : </h3>
 <ul>
 <li>satisfaction “d’économiser” les frais de livraison lors de chaque commande, et d’être livré en priorité.</li>
 <li>incitation à revenir sur le site sur lequel il s’est abonné à la livraison</li>
 </ul>
-<h3 style="color: #1e4848;">Fonctionnalité nécessaire pour le site : </h3>
+<h3 style="color: #1e4848">Fonctionnalité nécessaire pour le site : </h3>
 <ul>
 <li><a href="https://addons.prestashop.com/fr/frais-de-port/24876-tarif-forfaitaire-des-frais-d-expedition-premium.html" target="_blank">un module d’abonnement Premium à la livraison</a></li>
 </ul>
-<h2 style="color: #1e4848;">Last but not least</h2>
+<h2 style="color: #1e4848">Last but not least</h2>
 <p>Dernière chose, lorsque vous mettez en place un abonnement sur votre boutique, pensez bien à :</p>
 <ul>
 <li>mettre à jour vos CGV (conditions générales de vente)</li>
@@ -170,11 +170,11 @@ Exemple : <a href="https://shop.quotidiano.net/">Shop Quotidiano.net</a> en Ital
 <p>Une fois votre stratégie établie, <b>communiquez</b> sur cette dernière ! <b>Les frais de port offerts apportent une véritable plus-value</b> et sont un <b>argument concurrentiel</b> de taille, alors faites le savoir.</p>
 <p><strong> Auteur :</strong> Julien Callaou, expert livraison et plume de Boxtal</p>
 <p>&nbsp;</p>
-<h3><span style="color: #25b9d7">À propos de Boxtal</span></h3>
+<h2><span style="color: #25b9d7">À propos de Boxtal</span></h2>
 <p><a href="https://www.prestashop.com/blog/fr/files/2017/02/400_carré.png"><img class="alignnone  wp-image-21210" alt="400_carré" src="https://www.prestashop.com/blog/fr/files/2017/02/400_carré.png" width="168" height="168" /></a></p>
 <ul>
-<li>Avec plus de 60 000 clients professionnels dont 5 000 e-commerçants, Boxtal (anciennement EnvoiMoinsCher.com) est le numéro 1 de la livraison de colis multi-transporteurs.</li>
-<li>Grâce au module Boxtal, vous bénéficiez de tarifs négociés jusqu’à -75% chez les meilleurs transporteurs (Mondial Relay, Relais Colis, Colissimo, Chronopost, TNT, DHL…) sans contrat à signer, ni obligation de volume. La livraison devient simple : vous générez vos bordereaux d’expédition en 1 clic et suivez vos expéditions depuis votre back-office Prestashop.</li>
+<li><strong>Avec plus de 60 000 clients professionnels dont 5 000 e-commerçants, Boxtal (anciennement EnvoiMoinsCher.com) est le numéro 1 de la livraison de colis multi-transporteurs.</strong></li>
+<li><strong>Grâce au module Boxtal, vous bénéficiez de tarifs négociés jusqu’à -75% chez les meilleurs transporteurs (Mondial Relay, Relais Colis, Colissimo, Chronopost, TNT, DHL…) sans contrat à signer, ni obligation de volume. La livraison devient simple : vous générez vos bordereaux d’expédition en 1 clic et suivez vos expéditions depuis votre back-office Prestashop.</strong></li>
 </ul>
 <p><a href="http://ecommerce.envoimoinscher.com/contact-blogprestashop)">En savoir plus</a></p>
 <p><strong><em>Sources : </em></strong></p>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>popUpDrop</name>
+	<displayName><![CDATA[popUpDrop]]></displayName>
+	<version><![CDATA[1.0.4]]></version>
+	<description><![CDATA[a pop mobile , moving in all space of navigator. nice :) ]]></description>
+	<author><![CDATA[Jonathan kablan]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

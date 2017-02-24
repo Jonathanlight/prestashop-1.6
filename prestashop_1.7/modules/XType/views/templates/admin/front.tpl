@@ -1,12 +1,12 @@
 <style>
     #txtlzr{
-        color: red;
-        background: #00A4E7;
+        color: #fff;
+        background: #3f3f3f;
     }
 </style>
 <div id="container"> 
     <div id="txtlzr">
-        <marquee scrollamount="2">Textualizer est un plugin jQuery qui vous permet de faire des transitions</marquee>
+        <marquee scrollamount="2">Bienvenue sur le meilleur des sites de ventes d'équipement en Europe.</marquee>
     </div> 
 </div> 
 <script type="text/javascript"> 

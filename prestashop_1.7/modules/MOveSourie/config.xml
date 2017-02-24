@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>MOveSourie</name>
+	<displayName><![CDATA[MOveSourie]]></displayName>
+	<version><![CDATA[1.0.3]]></version>
+	<description><![CDATA[Show a picture who move cursor ]]></description>
+	<author><![CDATA[Jonathan kablan]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
